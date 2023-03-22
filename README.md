@@ -10,6 +10,6 @@ Senior analyst and senior developer, I am a full-stack developer in vms, unix, l
 
 The main quality of a developer is self-learning and technology watch and practice, in order to improve every day, in methodology and practice.
 
-My credo, code optimization in performance and security. Propose easily scalable solutions ... basically think the project correctly before launching it ;)
+My credo, code optimization in performance and security. Propose easily scalable solutions ... basically think the project correctly before launching it ;0)
 
-The goal is to become a better version of myself by updating and upgrading knowledge and experience. ;)
+The goal is to become a better version of myself by updating and upgrading knowledge and experience. ;0)
